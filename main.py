@@ -13,6 +13,7 @@ redsq = 1
 bluesq = 1
 end = 100
 dieres = 0
+#Hyy dhruv
 turn = True
 gameactive = False
 
